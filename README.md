@@ -26,16 +26,23 @@ $('select').chosen()
 ```
 
 
+
 ### Preview
 
 ![preview](https://camo.githubusercontent.com/6008afffcd244294718484b15c6e489050af6eb0/687474703a2f2f7075752e73682f384f6e53692e706e67)
 
+
+### Contributing
+
+I chose what seemed like they would be well known time zone abbreviations for each zone.  If you live in a zone and the abbreviation isn't obvious, let us know and it can be updated.
 
 ### References
 
  - http://www.w3schools.com/jsref/jsref_gettimezoneoffset.asp
  - http://en.wikipedia.org/wiki/List_of_time_zone_abbreviations
  - http://www.timeanddate.com/library/abbreviations/timezones/
+
+
 
 ### License
 
@@ -46,3 +53,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
