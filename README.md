@@ -30,7 +30,7 @@ $('select').chosen()
 
 ### Preview
 
-![preview](https://camo.githubusercontent.com/6008afffcd244294718484b15c6e489050af6eb0/687474703a2f2f7075752e73682f384f6e53692e706e67)
+![preview](https://cloud.githubusercontent.com/assets/1251587/2996450/3173ce80-dcef-11e3-81c9-4561d5f44481.jpg)
 
 
 ### Contributing
